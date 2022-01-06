@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(231, 234, 255);
+}
+.container{
+    text-align: center;
+    margin-top: 12em;
+
+}
+.title{
+    margin-bottom: 35px;
+    font-family: 'Arial';
+}
+#value{
+    padding: 15%;
+    margin-top: 10%;
+    font-size: 60px;
+    font-family: 'Arial';
+}
+.btn{
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 8px;
+}
+
+.button-container{
+     margin-top: 5%;
+}
